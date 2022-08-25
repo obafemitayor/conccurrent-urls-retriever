@@ -1,0 +1,21 @@
+{
+  "name": "nethermind-test",
+  "version": "1.0.0",
+  "description": "take home challenge for nethermind",
+  "main": "url-retriever.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tayo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "^2.6.7"
+  }
+}
